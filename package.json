@@ -1,0 +1,13 @@
+{
+  "name": "automated-nodejs-backups",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node backup-database.js"
+  },
+  "dependencies": {
+    "@getvim/execute": "^1.0.0",
+    "dotenv": "^8.2.0",
+    "gzipme": "^1.0.0"
+  }
+}
