@@ -7,7 +7,10 @@
   },
   "dependencies": {
     "@getvim/execute": "^1.0.0",
+    "axios": "^0.21.0",
     "dotenv": "^8.2.0",
-    "gzipme": "^1.0.0"
+    "form-data": "^3.0.0",
+    "gzipme": "^1.0.0",
+    "node-cron": "^2.0.3"
   }
 }
